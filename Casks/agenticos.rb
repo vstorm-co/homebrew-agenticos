@@ -1,12 +1,12 @@
 cask "agenticos" do
-  version "1.86.0"
+  version "1.86.1"
   on_arm do
-    sha256 "9b25bb47dbe0a50b64e2d728f2e923dbfb49e4f35908e2eaace6c2427fc0d121"
-    url "https://github.com/vstorm-co/agenticos/releases/download/v1.86.0/AgenticOS_1.86.0_aarch64.dmg"
+    sha256 "3c72ee0e0c61cccdab5a2cba3ece2bd24cf44671a5e346a0b7618cf3bb1d2720"
+    url "https://github.com/vstorm-co/agenticos/releases/download/v1.86.1/AgenticOS_1.86.1_aarch64.dmg"
   end
   on_intel do
-    sha256 "6be2d8e4e262975a58dffd43fcaf792c79c9e34a0338e399119eb7026ea15f12"
-    url "https://github.com/vstorm-co/agenticos/releases/download/v1.86.0/AgenticOS_1.86.0_x64.dmg"
+    sha256 "f56db19c9e3a7d2d793d13fb0f71af6679d2d2bbb292122ebcc6670a083eeeb8"
+    url "https://github.com/vstorm-co/agenticos/releases/download/v1.86.1/AgenticOS_1.86.1_x64.dmg"
   end
   name "AgenticOS"
   desc "Build, run and govern your company's AI agents"
